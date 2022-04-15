@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @singhharjot011
-- 👀 I’m interested in Data Analysis...
-- 🌱 I’m currently learning SQL, Tableau...
+- 👋 Hi, I’m Harjot, Newbie Yet Passionate about DataAnalysis
+- 👀 I’m interested in Data Analysis,, I'm here to learn
+- 🌱 I’m DP-900 and PL-300 Certified.
 - 📫 Reach me at gmail: singhharjot011@gmail.com
 
 <!---
